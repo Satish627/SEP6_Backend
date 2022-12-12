@@ -18,9 +18,3 @@ public class GithubCicdActionsApplication {
 	}
 
 }
-		git init
-		git add README.md
-		git commit -m "first commit"
-		git branch -M main
-		git remote add origin https://github.com/Satish627/SEP6_Backend.git
-		git push -u origin main
